@@ -1,0 +1,8 @@
+
+
+chip8
+keyboard.o
+ram.o
+display.o
+chip8.o
+main.o
